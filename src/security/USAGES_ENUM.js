@@ -1,4 +1,0 @@
-/**
- * USAGES_ENUM values allowed
- */
-export const USAGES_ENUM = ['FILE_VALIDATION', 'DEVICE_COMMUNICATIONS', 'DEVICE_ACCESS', 'CERT_SIGN'];

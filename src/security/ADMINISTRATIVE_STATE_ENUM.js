@@ -1,4 +1,0 @@
-/**
- * ADMINISTRATIVE_STATE_ENUM values allowed
- */
-export const ADMINISTRATIVE_STATE_ENUM = ['NOT_ACTIVE', 'ACTIVE', 'REVOKED', 'EXPIRED'];
